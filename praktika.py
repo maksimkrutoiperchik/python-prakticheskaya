@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# почему нельзя slovartovarov??? мне так было бы удобней
+# ne  slovartovarov ura
 dictproducts = [
     {"id": 0, 
     "name": "мышь", 
